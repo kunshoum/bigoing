@@ -1,0 +1,24 @@
+
+    {
+        "data":[
+                    {
+                    "id":"1",
+                    "img":"../static/images/TCT@2x.png",
+                    "capital":"TCT",
+                    "font":"全网",
+                    "num":"0.9300",
+                    "amount":"-0.28%"
+                    },
+                    {
+                        "id":"2",
+                        "img":"../static/images/ETH@2x.png",
+                        "capital":"ETH",
+                        "font":"全网",
+                        "num":"3477.47",
+                        "amount":"+8.27%"
+                        }
+                   
+                ]
+
+        
+    }
