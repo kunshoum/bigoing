@@ -1,0 +1,87 @@
+.mint-radiolist {
+  width: 20% !important;
+  float: left !important;
+  border: 0;
+}
+
+.mint-cell-wrapper {
+  background-size: 120% 0px !important;
+  padding: 0 -20% !important;
+}
+
+.mint-radio-input:checked + .mint-radio-core {
+  background-color: #00BA3D;
+  border-color: #00BA3D;
+}
+
+.contat .mint-cell-value {
+  width: 100%;
+}
+
+.mint-cell-swipe-button {
+  width: 74px;
+  height: 74px;
+  padding: 0 !important;
+  margin-right: 22px !important;
+  text-align: center;
+  border-radius: 50%;
+  line-height: 74px;
+  margin-top: 15px;
+  font-size: 26px;
+  color: #ffffff;
+  position: relative;
+}
+
+.mint-cell-swipe-button img {
+  width: 140px;
+  height: 192px;
+}
+
+.mint-cell-swipe-button .delImg {
+  width: 136px;
+  height: 123px;
+  margin-bottom: 25px;
+  margin: -0.4rem 0 0 -0.1rem;
+}
+
+.wallet .mint-cell-right, .yunwallet .mint-cell-right {
+  width: 24% !important;
+  top: -14px !important;
+  right: -28px;
+}
+
+.mint-msgbox-wrapper .mint-msgbox {
+  top: 43% !important;
+  border-radius: 15px;
+}
+
+.mint-msgbox-wrapper .mint-msgbox .mint-msgbox-header .mint-msgbox-title {
+  font-size: 36px !important;
+  color: #222;
+}
+
+.mint-msgbox-wrapper .mint-msgbox .mint-msgbox-content .mint-msgbox-message {
+  font-size: 28px !important;
+  color: #333 !important;
+}
+
+.mint-msgbox-wrapper .mint-msgbox .mint-msgbox-btns button {
+  border-radius: 10px !important;
+  font-size: 30px !important;
+}
+
+.mint-msgbox-wrapper .mint-msgbox .mint-msgbox-btns .mint-msgbox-confirm.sure {
+  background: -webkit-linear-gradient(left, #F16824, #EF4524) !important;
+  background: -o-linear-gradient(left, #F16824, #EF4524) !important;
+  background: -moz-linear-gradient(left, #F16824, #EF4524) !important;
+  background: -mos-linear-gradient(left, #F16824, #EF4524) !important;
+  background: linear-gradient(left, #F16824, #EF4524) !important;
+  background-color: #EF4524 !important;
+  font-size: 30px !important;
+  color: #ffffff !important;
+}
+
+.mint-msgbox-wrapper .mint-msgbox .mint-msgbox-btns .mint-msgbox-confirm.yes {
+  font-size: 30px !important;
+  color: #EF4524 !important;
+}
