@@ -12,6 +12,7 @@ export default {
   },
   methods: {
     reziter () {
+      console.log('1233')
       this.$router.push(`/phoneRegister`)
     },
     login () {
